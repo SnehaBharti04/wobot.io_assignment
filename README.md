@@ -21,5 +21,18 @@ Tech Stack used :-
     CSS
 
 Improvemnt can also be made :-
-  By adding debounce search method but we have only 20 rows so not required
-  For location dropdown we can replace current design with a searchable component using debounced filtering.
+  - By adding debounce search method but we have only 20 rows so not required
+  - For location dropdown we can replace current design with a searchable component using debounced filtering.
+
+Setup instructions :-
+git clone https://github.com/SnehaBharti04/wobot.io_assignment/
+
+Navigate into the project:
+cd wobot-camera-app
+
+Install dependencies:
+npm install
+
+Start development server:
+npm run dev
+  
