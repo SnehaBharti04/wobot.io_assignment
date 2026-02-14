@@ -25,14 +25,13 @@ Improvemnt can also be made :-
   - For location dropdown we can replace current design with a searchable component using debounced filtering.
 
 Setup instructions :-
-git clone https://github.com/SnehaBharti04/wobot.io_assignment/
-
+git clone - https://github.com/SnehaBharti04/wobot.io_assignment
 Navigate into the project:
-cd wobot-camera-app
+ - cd wobot.io_assignment
 
 Install dependencies:
-npm install
+ - npm install
 
 Start development server:
-npm run dev
+ - npm run dev
   
